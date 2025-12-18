@@ -70,11 +70,10 @@ class ModelParams(ParamGroup):
 class NexelParams(ParamGroup):
     def __init__(self, parser, sentinel=False):
         self.log_hash_table_size = 21
-        self.kbuffer_size = 0
         self.texture_limit = 2
         self.num_levels = 16
         self.minres = 16
-        self.maxres = 2048
+        self.maxres = 1024
         self.mlp_hidden_dim = 64
         self.mlp_output_dim = 48
         self.mlp_input_bias = 0.0

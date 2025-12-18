@@ -3,8 +3,9 @@
 .vscode
 output
 build
-diff_nexel_rasterization/diff_nexel_rasterization.egg-info
-diff_nexel_rasterization/dist
+submodules/simple-knn/simple_knn.egg-info
+submodules/diff_nexel_rasterization/diff_nexel_rasterization.egg-info
+submodules/diff_nexel_rasterization/dist
 tensorboard_3d
 screenshots
 eval/

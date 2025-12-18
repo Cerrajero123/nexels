@@ -14,7 +14,7 @@ from argparse import ArgumentParser
 import time
 import json
 
-def run_scene(args, scene, dnum):
+def run_scene(args, scene):
     data_dir = args.data_dir
     cap_max = args.cap_max
 
@@ -30,7 +30,7 @@ def run_scene(args, scene, dnum):
         # Clamping texture values leads to slightly better results but we didn't use it in the paper
         common_args += " --no_texture_clamp "
 
-        images_dir = f"images_{dnum}"
+        images_dir = f"images"
         cmd_str = f"python train.py -s {data_dir}/{scene} -i {images_dir} -m {output_path}/{scene} {common_args}"
         print(cmd_str)
         os.system(cmd_str)
