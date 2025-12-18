@@ -1,0 +1,6 @@
+[submodule "submodules/diff-nexel-rasterization"]
+	path = submodules/diff-nexel-rasterization
+	url = https://github.com/victor-rong/diff-nexel-rasterization
+[submodule "submodules/fused-ssim"]
+	path = submodules/fused-ssim
+	url = https://github.com/rahul-goel/fused-ssim
